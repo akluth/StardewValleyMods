@@ -1,0 +1,10 @@
+﻿{
+    "Name": "GottaGoFast",
+    "Author": "alexclooze",
+    "Version": "0.3.0",
+    "Description": "Fasten up the running speed of the player",
+    "UniqueID": "alexclooze.gottagofast",
+    "EntryDll": "GottaGoFast.dll",
+    "MinimumApiVersion": "3.1.0",
+    "UpdateKeys": ["GitHub:alexclooze/GottaGoFast"]
+}

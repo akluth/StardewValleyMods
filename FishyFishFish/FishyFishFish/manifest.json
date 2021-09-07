@@ -1,0 +1,10 @@
+﻿{
+  "Name": "FishyFishFish",
+  "Author": "alexclooze",
+  "Version": "1.0.0",
+  "Description": "Alle Fischies fischen",
+  "UniqueID": "alexclooze.fishyfishfish",
+  "EntryDll": "FishyFishFish.dll",
+  "MinimumApiVersion": "2.10.0",
+  "UpdateKeys": []
+}
